@@ -1,8 +1,8 @@
 # 🤖 Scraper de Citações com Tradução Automática
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/SEU-USUARIO/SEU-REPOSITORIO)
-![GitHub forks](https://img.shields.io/github/forks/SEU-USUARIO/SEU-REPOSITORIO)
+![GitHub issues](https://img.shields.io/github/issues/luanmilagre/projeto-scraper-citacoes)
+![GitHub forks](https://img.shields.io/github/forks/luanmilagre/projeto-scraper-citacoes)
 
 > Projeto de web scraping criado como parte do meu portfólio de Desenvolvedor Python / Engenheiro de Dados.
 
